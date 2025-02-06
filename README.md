@@ -12,6 +12,9 @@
 ![alt text](https://github.com/EdselSpth/pesaingsteam/blob/cdb170443150d447ff7ae2943e0c69de5fe66e3c/Image/Run%202.png)
 ![alt text](https://github.com/EdselSpth/pesaingsteam/blob/cdb170443150d447ff7ae2943e0c69de5fe66e3c/Image/Run%203.png)
 
+# Aplikasi Running
+![alt text](https://github.com/EdselSpth/selfinfoapp/blob/346ea892e9a06798c905961492ff4464dcd5e1fc/ScreenShoot%20Flutter%20Procect%20Hands%20On%202.png)
+
 # Tata Cara Running
 1. Lakukan download terhadap file zip
 2. Extract File Zip
